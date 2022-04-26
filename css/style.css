@@ -9,6 +9,14 @@
 	left: 40px;
 	bottom: 120px;
 	position: absolute;
+	transition: all 0.3s ease-in 2s;
+	animation: mymove 5s infinite;
+
+}
+@keyframes mymove {
+	from {right: 1000px;}
+	to {left: 800px;}
+}
+
 
 	
-}
