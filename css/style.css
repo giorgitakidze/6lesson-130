@@ -1,25 +1,14 @@
-.wraper-box {
-	width: 700px;
-	height: 700px;
-	background: yellow;
-	position: relative;
-}
-.box {
-	width: 200px;
-	height: 200px;
-	background: blue;
-	position: absolute;
-	top: 200px;
-	left: 100px;
-}
-/*.wraper-box:hover {
-	background: black;
+.ficture {
 
+	width: 100%;
+	height: 100%;
+	position: relative;
+	
 }
-.box:hover {
-	background: red;
-	width: 300px;
-}*/
-.wraper-box:hover .box {
-	background: coral;
+.jeets {
+	left: 40px;
+	bottom: 120px;
+	position: absolute;
+
+	
 }
